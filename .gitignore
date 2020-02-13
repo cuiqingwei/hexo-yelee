@@ -4,4 +4,6 @@ db.json
 *.log
 public/
 source/_posts/
+source/img/
+source/about/
 .deploy*/
