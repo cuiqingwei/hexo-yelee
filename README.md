@@ -10,6 +10,24 @@
 
 - User Guide [Yelee — 简而不减 Hexo 双栏博客主题](http://moxfive.coding.me/yelee/)
 
+1. 文章置顶
+
+```
+$ npm uninstall hexo-generator-index --save
+$ npm install hexo-generator-index-pin-top --save
+```
+
+然后在需要置顶的文章的Front-matter中加上top: true即可。比如下面这篇文章：
+
+```
+---
+title: hexo+GitHub博客搭建实战
+date: 2017-09-08 12:00:25
+categories: 博客搭建系列
+top: true
+---
+```
+
 ## Acknowledgments
 
 - [hexojs/hexo](https://github.com/hexojs/hexo)

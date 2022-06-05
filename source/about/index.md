@@ -5,8 +5,9 @@ date: 2016-09-15 21:24:58
 
 ---
 
-<center>![i-lure](../img/i-lure.jpeg)</center>
-
+<div align=center>
+<img src="/img/i-lure.jpeg"/>
+</div>
 ---
 
 **Gary** ：来自山东，现在定居于上海。
@@ -38,5 +39,10 @@ date: 2016-09-15 21:24:58
 <br>
 
 <center>个人微信公众号</center>
-<center>![路亚点滴](../img/路亚点滴.png)</center>
-<center>扫码或搜索：骑行点滴</center>
+
+<div align=center>
+<img src="/img/路亚点滴.png"/>
+</div>
+
+<center>扫码或搜索：路亚点滴</center>
+
